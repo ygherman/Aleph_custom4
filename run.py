@@ -66,15 +66,18 @@ def fill_table(df, collect):
     :type collect: object
     """
 
-    lambda x: True if x % 2 == 0 else False
+    if "סימול/מספר מזהה" in list(df.columns.values):
+        df = df.set_index('סימול/מספר מזהה')
+    elif "סימול" in list(df.columns.values):
+        df = df.set_index('סימול')
 
-    df = df.set_index('סימול/מספר מזהה')
     rootid_finder = lambda x: x[:find_nth(x, '-', x.count('-'))]
     df['Parent'] = df.index
     df.loc[df.index[1:], 'Parent'] = df.loc[df.index[1:], 'Parent'].apply(rootid_finder)
     df = df.reset_index()
 
-    df = df.rename(columns={'רמת תיאור': '351##c', 'סימול/מספר מזהה': '911##a'})
+    df = df.rename(columns={'רמת תיאור': '351##c', 'סימול/מספר מזהה': '911##a', 'סימול': '911##a',
+                            'כותרת': '24500a'})
 
     # Create different LDR depending on level of description
     # 00000npd^a22^^^^^^a^4500  - for file and item level records
@@ -92,12 +95,20 @@ def fill_table(df, collect):
     df = df.set_index('911##a')
 
     df['008'] = '^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d'
-    df['911##c '] = collect
-    df['24500a'] = 'Add Title'
+    df['911##c'] = collect
     df['BAS##a'] = 'VIS'
-    df['999'] = '$$aARCHIVE$$bNOULI$$bNOOCLC'
+    df['999##a'] = 'ARCHIVE'
+    df['999##b'] = 'NOULI'
+    df['999##b_1'] = 'NOOCLC'
     df['FMT'] = 'MX'
     df['OWN##a'] = 'NNL'
+
+    ordered_col = ['911##c', '351##c', 'Parent',
+                   'LDR', '008', '24500a', 'BAS##a',
+                   '999##a', '999##b', '999##b', 'FMT', 'OWN##a']
+
+    df = df[ordered_col]
+    df = df.rename(columns={'999##b_1': '999##b', 'כותרת': '24500a'})
 
     return df
 
