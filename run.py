@@ -2,11 +2,19 @@ import os
 
 import pandas as pd
 
-field_mapper = {
-    'collection': '911##c',
-    'סימול/מספר מזהה': '911##a'
+level_mapper = {
+    'אוסף': 'Section Record',
+    'חטיבה': 'Fonds Record',
+    'תת-חטיבה': 'Sub-Fonds Record',
+    'תת חטיבה': 'Sub-Fonds Record',
+    'סדרה': 'Series Record',
+    'תת-סדרה': 'Sub-Series Record',
+    'תת סדרה': 'Sub-Series Record',
+    'תיק': 'File Record',
+    'פריט': 'Item Record',
+    'סידרה': 'Series Record',
+    'תת-סידרה': 'Sub-Series Record'
 }
-
 
 def open_id_list():
     while True:
@@ -60,9 +68,16 @@ def write_excel(df, path, sheets='Sheet1'):
     writer.close()
 
 
+def create_LDR(row):
+    if row['351##c'] in ['פריט', 'תיק']:
+        return '00000npd^a22^^^^^^a^4500'
+    else:
+        return '00000npc^a22^^^^^^^^4500'
+
 def fill_table(df, collect):
     """
 
+    :param df: original DataFrame
     :type collect: object
     """
 
@@ -77,18 +92,12 @@ def fill_table(df, collect):
     df = df.reset_index()
 
     df = df.rename(columns={'רמת תיאור': '351##c', 'סימול/מספר מזהה': '911##a', 'סימול': '911##a',
-                            'כותרת': '24500a'})
+                            'כותרת': '24510a'})
 
     # Create different LDR depending on level of description
     # 00000npd^a22^^^^^^a^4500  - for file and item level records
     # 00000npc^a22^^^^^^^^4500 - for all other levels (the "c" is for "collection")
     df['LDR'] = None
-
-    def create_LDR(row):
-        if row['351##c'] in ['פריט', 'תיק']:
-            return '00000npd^a22^^^^^^a^4500'
-        else:
-            return '00000npc^a22^^^^^^^^4500'
 
     df['LDR'] = df.apply(create_LDR, axis=1)
 
@@ -102,19 +111,28 @@ def fill_table(df, collect):
     df['999##b_1'] = 'NOOCLC'
     df['FMT'] = 'MX'
     df['OWN##a'] = 'NNL'
+    df['STA##a'] = 'SUPPRESSED'
 
-    ordered_col = ['911##c', '351##c', 'Parent',
-                   'LDR', '008', '24500a', 'BAS##a',
-                   '999##a', '999##b', '999##b', 'FMT', 'OWN##a']
+    ordered_col = ['911##c', '351##c',
+                   'LDR', '008', '24510a', 'BAS##a',
+                   '999##a', '999##b', '999##b_1', 'FMT', 'OWN##a', 'STA##a']
+
 
     df = df[ordered_col]
-    df = df.rename(columns={'999##b_1': '999##b', 'כותרת': '24500a'})
+    df = df.rename(columns={'999##b_1': '999##b'})
+
 
     return df
 
 
 file_name, collection = open_id_list()
 xl = pd.ExcelFile(file_name)
+
 df = xl.parse('Sheet1')
+df.replace({'רמת תיאור': level_mapper}, inplace=True)
 df = fill_table(df, collection)
-write_excel(df, os.path.join(os.getcwd(), file_name.replace('.xlsx', '_custom04.xlsx')), collection + '_custom04')
+write_excel(df, os.path.join(os.getcwd(), file_name.replace('.xlsx',
+                                                            '_custom04.xlsx').lower()), collection + '_custom04')
+file_name = file_name.lower()
+df.to_csv(os.path.join(os.getcwd(), file_name.replace('aleph.xlsx',
+                                                      'custom04.txt')), sep='\t', encoding='utf8')
