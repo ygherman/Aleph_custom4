@@ -16,6 +16,7 @@ level_mapper = {
     'תת-סידרה': 'Sub-Series Record'
 }
 
+
 def open_id_list():
     while True:
         file_name = input('please enter the name of the file that contains the list of identifiers:')
@@ -87,9 +88,11 @@ def fill_table(df, collect):
         df = df.set_index('סימול')
 
     rootid_finder = lambda x: x[:find_nth(x, '-', x.count('-'))]
-    df['Parent'] = df.index
+    df['Parent'] = ''
     df.loc[df.index[1:], 'Parent'] = df.loc[df.index[1:], 'Parent'].apply(rootid_finder)
     df = df.reset_index()
+
+    df['כותרת'] = df['כותרת'].replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["", ""])
 
     df = df.rename(columns={'רמת תיאור': '351##c', 'סימול/מספר מזהה': '911##a', 'סימול': '911##a',
                             'כותרת': '24510a'})
@@ -117,10 +120,8 @@ def fill_table(df, collect):
                    'LDR', '008', '24510a', 'BAS##a',
                    '999##a', '999##b', '999##b_1', 'FMT', 'OWN##a', 'STA##a']
 
-
     df = df[ordered_col]
     df = df.rename(columns={'999##b_1': '999##b'})
-
 
     return df
 

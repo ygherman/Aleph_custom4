@@ -18,7 +18,7 @@ if sys.platform == "win32":
 setup(name="Aleph_custom4",
       version='0.1',
       description='create table for importing empty records via custom04',
-      executables=[Executable('run.py', base=N, requires=['pandas'], requires=['pandas'])])
+      executables=[Executable('run.py', base=N, requires=['pandas'])])
 
 # setup(
 #     name='Aleph_custom4',
