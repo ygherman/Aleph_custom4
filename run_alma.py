@@ -1,7 +1,6 @@
+import sys
+
 from helper_fuctions import *
-
-dt_now = datetime.datetime.now().strftime('%Y%m%d')
-
 
 level_mapper = {
     'אוסף': 'Section Record',
@@ -25,12 +24,11 @@ def main():
     df = xl.parse('Sheet1')
     df.replace({'רמת תיאור': level_mapper}, inplace=True)
     df = fill_table(df, collection)
-
-    out_path_excel = Path.cwd() / 'output_files' / (collection + 'custom04' + dt_now + '.xlsx')
-    write_excel(df, out_path_excel, collection + '_custom04')
-
-    out_path_txt = Path.cwd() / 'output_files' / (collection + 'custom04' + dt_now + '.txt')
-    df.to_csv(out_path_txt, sep='\t', encoding='utf8')
+    out_path_excel = Path.cwd() / 'output_files' / (collection + '_brief_' + dt_now + '.xlsx')
+    write_excel(df, out_path_excel)
+    count, run_time = create_brief_MARC_XML(df, collection)
+    sys.stderr.write("%s total records written to file in %s seconds.\n\n" % \
+                     (count, run_time))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,245 @@
+911##a	911##c	351##c	LDR	008	24510a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+PShKo	אוסף שוש קורמוש	Section Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אוסף שוש קורמוש	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC	אוסף שוש קורמוש	Fonds Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חטיבת תצלומי מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ליאת דרור וניר בן גל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - ליאת וניר, 1 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - ליאת וניר, 2 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - ליאת וניר, 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - ליאת וניר, 4 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ליאת דרור וניר בן גל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ליאת דרור וניר בן גל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - נשים וגברים רוקדים בשמלות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-015	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-016	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-017	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-018	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-019	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-020	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-021	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-022	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-023	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-024	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-025	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - ליאת דרור וניר בן גל, 1 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-026	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - ליאת דרור וניר בן גל, 2 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-027	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - ליאת דרור וניר בן גל, 3 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-028	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-029	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-030	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-031	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-032	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-033	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-034	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-035	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-036	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-037	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-038	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-039	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-040	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-041	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-042	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-043	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-044	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-045	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-046	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-047	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-048	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-049	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-050	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-051	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן לא ידוע	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-052	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-053	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-054	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-055	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-056	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדניות לא ידועות; תצלומי חלל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-057	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-058	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-059	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-060	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-061	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-062	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-063	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-064	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-065	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-066	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-067	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - מחול במעגל, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-068	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-069	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-070	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלוש רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-071	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - מחול במעגל, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-072	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-073	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת המחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-074	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - מחול במעגל, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-LDNBG-075	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קונטקט תצלומים - יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, 1991	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - עידו תדמור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דף קונטקט - עידו ותדמור, רקדנים לא ידועים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור רוקד בסטודיו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-IDO-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עידו תדמור; רקדנים לא ידועים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - תחרות 'גוונים במחול', סוזן דלל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - גוונים במחול, 1991	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - משתתפי 'גוונים במחול', 1 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - משתתפי 'גוונים במחול', 2 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - משתתפי 'גוונים במחול', 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - משתתפי 'גוונים במחול', 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - משתתפי 'גוונים במחול', 4 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-015	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת מחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-016	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-017	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-018	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת מחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-019	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-020	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-021	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-022	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדנים, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-023	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-024	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-025	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת מחול, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-026	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-027	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-028	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-GVA-029	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - כוריאוגרפים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - כוריאוגרפים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - כוריאוגרפים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'סינפסה', רקדנים לא ידועים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'דואו סמאעי', עידו תדמור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'דואו סמאעי', 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'דואו סמאעי', 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עמוס חץ, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עדי שעל, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - דנה שיבולת, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ענת דניאלי, יצירה לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ענת דניאלי, יצירה לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - אריה בורשטיין; רקדנים לא ידועים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ענת דניאלי, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - 'סינפסה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-015	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - יצירת פינה באוש, 'ציפרנים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-016	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - להקת בת-שבע, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-017	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-018	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-019	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-020	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-021	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-022	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-023	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדנים, יצירה לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-024	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדנים, יצירה לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-025	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-026	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות ורקדן, 1 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-027	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות ורקדן, 2 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-028	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות ורקדן, 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-029	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות ורקדן, 4 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-030	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית ורקדן, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-031	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - זוג רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-032	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-033	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-034	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדניות, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-035	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - זוג רקדניות, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-036	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית על כיסאות; קבוצת רקדנים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-037	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-038	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 1 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-039	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 2 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-040	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 3 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-041	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה, 1 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-042	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה, 2 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-043	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה,3 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-044	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-045	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנים שונים, יצירות לא ידועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-046	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדניות, יצירות לא ידועות, 1 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-047	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדניות, יצירות לא ידועות, 2 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-048	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדניות, יצירות לא ידועות, 3 מתוך 3	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-049	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן/רקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-050	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדניות; רקדניות בשמלות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-051	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שלישיית רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-052	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פרפורמר לא מזוהה, 1 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-053	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פרפורמר לא מזוהה, 2 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-054	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פרפורמר לא מזוהה, 3 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-055	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פרפורמר לא מזוהה, 4 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-056	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פרפורמר לא מזוהה, 5 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-057	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-058	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - צמד רקדניות, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-059	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית, יצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-060	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעת בלט, רקדנים לא מזוהים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-061	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעת מחול, להקה לא ידוע	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-CHO-062	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - יצירות שונות לא מזוהות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת מחול לא מזוהה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים ותשלילים - קבוצת מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - רקדנית לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן לא ידוע	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן לא ידוע	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדנית לא ידועה, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 1 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 2 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 3 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 4 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 5 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 6 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 7 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קבוצת רקדנים, יצירה לא ידועה, 8 מתוך 8	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-DNC-UKDC-015	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - רקדן ורקדנית	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART	אוסף שוש קורמוש	Fonds Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - דמויות מעולם התרבות והאמנות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - אנשי רוח, אמנים וכותבים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קופסת תצלומים - דמויות מעולם מהתרבות, 'העיר'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - החוקרת עמליה זיו ואנשים נוספים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - נילי מירסקי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - הסופרת יהודית קציר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - האמנית מיכל נאמן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - אלדד זיו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - הציירת אביבה אורי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - האמנית הילה לולו לין	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - יאיר גרבוז	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - ניר הוד	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - ארי אלון	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - טוביה וגלילה ריבנר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - יותם ראובני	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-HUMAN-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - דמויות לא מזוהות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-DNC	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עולם המחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-DNC-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - עידו תדמור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-DNC-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - ליאת דרור וניר בן גל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-DNC-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - להקת הבלט הלאומי של גיאורגיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-DNC-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעות מחול, דמויות לא מזוהות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - מוזיקאים ולהקות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - גלעד בן דוד ('המוכתר')	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הפסנתרן איתמר גולן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - להקת 'איפה הילד'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - אתי אנקרי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - ריקי גל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - להקת 'טיפקס'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - שרון בן-עזר ('אליוט')	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - ברי סחרוף ורמי פורטיס בהופעה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-009	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - שולי רנד ודן תורן בהופעה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-010	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - מייקל בנסון ואיגי דיין (משינה)	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-011	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום - דנה ברגר ('בלאגן')	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-012	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - אביב גפן בהופעה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-013	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - ערן צור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-MUS-014	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הפסנתרן והמנצח דניאל בארנבוים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT	אוסף שוש קורמוש	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - דמויות מהתיאטרון, הקולנוע והטלויזיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-001	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - השחקנית גילה אלמגור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-002	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - השחקן משה איבגי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-003	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - השחקן יעקב כהן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-004	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - השחקנית קרן מור	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-005	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - ניקול הלפרין	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-006	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום פורטרט - ארז טל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-007	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - דידי הררי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PShKo-ART-ACT-008	אוסף שוש קורמוש	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - דמויות לא מזוהות, אומנויות הבמה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED

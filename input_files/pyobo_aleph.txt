@@ -1,0 +1,140 @@
+﻿911##a	911##c	351##c	LDR	008	24510a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+PYoBo	יורם בוקר	Section Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שם האוסף	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001	יורם בוקר	Fonds Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פעילותו של יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-001	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-001-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - ריאיונות עם יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-001-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות ישראלית  - יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-001-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות חו""ל - יורם בוקר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-001-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - קטעי קישור באירוויזיון 1979	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פעילותו של יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פסטיבל 'אמנות לעם' באילת	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'הפסטיבל הישראלי לפנטומימה בקרית שמונה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעת פנטומימה בקיבוץ 'חורשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעות פנטומימה בפני חיילים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעות פנטומימה בטלוויזיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעת פנטומימה באוניברסיטת תל אביב	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-007	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות פנטומימה שונות, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-008	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות פנטומימה שונות, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-009	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות פנטומימה שונות, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-010	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - זכייה בפסטיבל הפנטומימה 'בארצו' באיטליה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-011	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קורס בהנחיית יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-012	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - יורם בוקר באירועים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-013	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פורטרטים של יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-014	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - יורם בוקר עם מסכה של יהודית גרינשפן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-015	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - יורם בוקר, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-016	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - יורם בוקר, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-017	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - יורם בוקר, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-018	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - יורם בוקר ואורי טננבאום"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-019	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 1 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-020	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 2 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-021	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 3 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-022	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 4 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-023	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 5 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-024	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 6 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-025	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 7 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-002-026	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - תיאטרון הפנטומימה של יורם בוקר, 8 מתוך 8"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי וידאו - יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - Theatre Yoram Boker, 1 out of 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - Theatre Yoram Boker, 2 out of 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"2002 ,A Video - University"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - ריאיונות עם יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - מרסל מרסו באוניברסיטת תל אביב	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - שיעור תנועה של מרסל מרסו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-007	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - 'הצגת פנטומימה לילדים' בטלוויזיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-003-008	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - שילוב של יצירות פנטומימה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-004	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עלונים, כרזות ותכניות - יורם בוקר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-004-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Poster - `Boker Mime Theatre`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-004-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - 'תיאטרון הפנטומימה של יורם בוקר' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-004-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרסומת בכיכובו של יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-005	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תעודות ומסמכים - יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-005-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמר על יצירתו של יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-005-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים - 'תיאטרון הפנטומימה של יורם בוקר'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-005-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתבים - יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-001-005-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תעודות - יורם בוקר 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002	יורם בוקר	Fonds Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הפקות בהשתתפות יורם בוקר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-001	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'תעלולי נאסר א דין'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-001-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'תעלולי נאסר א דין'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-001-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'תעלולי נאסר א דין'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-002	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'כנר על הגג'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-002-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'כנר על הגג'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-002-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'כנר על הגג'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-003	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'בכלוב האהבה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-003-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה  - 'בכלוב האהבה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-003-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות -'בכלוב האהבה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קרוסל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה ומודעה - 'קרוסל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'קרוסל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'קרוסל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'קרוסל 2'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'קרוסל' באולימפיאדת מינכן, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-004-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'קרוסל' באולימפיאדת מינכן, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-005	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'על מסכות ואנשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-005-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות - 'על מסכות ואנשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-005-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'על מסכות ואנשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-005-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	`A Video - `Men and Masks	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-005-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'על מסכות ואנשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'גברתי המדינה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה ועלון - 'גברתי המדינה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'גברתי המדינה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'גברתי המדינה', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'גברתי המדינה', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו -  'גברתי המדינה', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-006-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו -  'גברתי המדינה', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-007	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'הנעליים האדומות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-007-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'הנעליים האדומות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-007-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'הנעליים האדומות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-007-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'הנעליים האדומות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'חלומות באשפמיה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'חלומות באשפמיה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'חלומות באשפמיה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'חלומות באשפמיה', 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'חלומות באשפמיה', 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'חלומות באשפמיה', 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-008-006	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'חלומות באשפמיה', 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-009	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'מהומה על הבמה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-009-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'מהומה על הבמה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-009-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - ההצגה 'מהומה על הבמה', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-009-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - ההצגה 'מהומה על הבמה', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-009-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - חזרה של 'מהומה על הבמה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-010	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'גיזת הזהב'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-010-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'גיזת הזהב'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-010-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'גיזת הזהב'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-010-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'גיזת הזהב', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-010-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'גיזת הזהב', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-011	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	נקמתה של אישתי'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-011-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'נקמתה של אישתי'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-011-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'נקמתה של אישתי', 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-011-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'נקמתה של אישתי', 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-011-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'נקמתה של אישתי', 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עולם הפנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עלון - 'עולם הפנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - 'עולם הפנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'עולם הפנטומימה', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'עולם הפנטומימה', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-012-005	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קונטקטים  - 'עולם הפנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-013	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הציפור הירוק'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-013-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - 'הציפור הירוק'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-013-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימת ביקורת - 'הציפור הירוק'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-013-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'הציפור הירוק'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-014	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מעשה באדם שנשא אישה אילמת'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-014-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'מעשה באדם שנשא אישה אילמת'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-014-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מעשה באדם שנשא אישה אילמת', 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-014-003	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מעשה באדם שנשא אישה אילמת', 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-014-004	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מעשה באדם שנשא אישה אילמת', 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-015	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מה פתאום'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-015-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'מה פתאום'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-015-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'מה פתאום'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-016	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שעשועי פנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-016-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים - 'שעשועי פנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-016-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'שעשועי פנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-017	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'מעשה בחייל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-017-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'מעשה בחייל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-017-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'מעשה בחייל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-018	יורם בוקר	Series Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 'קלפים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-018-001	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות -'קלפים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-018-002	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קונטקטים -'קלפים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-019	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'חלום קטן - שירי תאטרון ופנטומימה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-020	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'אהבתו של דון פרלימפלין'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-021	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניה - 'Die Zauberflöte'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-022	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'מינימים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PYoBo-002-023	יורם בוקר	File Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - 'פלאשבק'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED

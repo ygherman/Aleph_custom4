@@ -1,0 +1,321 @@
+﻿911##a	911##c	351##c	LDR	008	24510a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+ PArAv 	אוסף אלפרד אברהם	אוסף	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אוסף אלפרד אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001	אוסף אלפרד אברהם	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ושרטוטים - רהיטים, גופי תאורה וחללי פנים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים וגופי תאורה, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - מנורות שולחן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - מנורות קיר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - שולחנות וכסאות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - ארונות, שידות ומיטות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - מנורות לילה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - גופי תאורה שונים, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - מתלים ומדפים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - מנורות תקרה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - גופי תאורה שונים, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים לביצוע - עבודות פירזול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 1 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 2 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 3 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 4 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית חורושנסקי"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית ירושלמי"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, מיקומים שונים "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כורסא וספה, בית פורל"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-019	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית הלפרן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-020	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, בית מזור. א"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-021	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, בית ברגר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-022	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית אנדרסון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-023	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית וויקסלר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-024	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, בית רייך"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-025	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית ד""ר מזור"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-026	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית אלכסנדרוביץ'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-027	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-028	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית בן עמי"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-029	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית חבס, נחמן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-030	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית ירושלמי חיים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-031	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית לוסטיג"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-032	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית דויטשר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-033	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, בית חבס. ה, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-034	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, בית קוטשר"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-035	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, בית קליימן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-036	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, בית יעקובוביץ'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-037	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית וולפלד"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-038	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות, בית מאוטנר-לוריא"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-039	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - מיטה, בית פפריקה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-040	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - ספה, בית אקסלרוד"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-041	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, בית זאבי"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-042	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, בית לוי"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-043	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כורסאות, בית רפפורט"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-044	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כורסאות, חנות אורלוגין"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-045	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כורסא, חדר אוכל רמת אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-046	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוט לביצוע - כסא, משרדי אל על"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-047	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - רהיטים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-048	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 5 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-049	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 6 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-001-050	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים לביצוע - כסאות וכורסאות, 7 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - רהיטים וחללי פנים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - חדרי שינה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - פינות אוכל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - בתי עסק	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - פינות ישיבה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - ספות ופינות כתיבה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - ברים ומזנונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - כסאות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - כסאות וכורסאות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - כורסאות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - שולחנות עבודה, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - שולחנות עבודה, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - שולחנות סלוניים, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - שולחנות סלוניים, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - ספות, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישומים אדריכליים - ספות, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - שולחנות תה ושידות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - A. Medawer villa	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-001-002-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים אדריכליים - R. Sabbag villa	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002	אוסף אלפרד אברהם	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - בתי מגורים ובתי עסק	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 1 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית שולמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית גרינוואלד, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית קורף, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית שטראוס, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בן שמש, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית רזכן, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית שמורק, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית אברהם, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית רפפורט, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית פיליפסון, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית יעקובי, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בקלינסקי, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית גלצקי, מיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית זינגר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פרויקטים שונים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מזור אהרון, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית לרר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית שולר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-019	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית ווקסלר. א, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-020	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית לשם, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-021	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית סרזין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-022	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית זילברשטיין, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-023	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ברצ'יובסקי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-024	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מויאל, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-025	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אנדרסון, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-026	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית קליימן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-027	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ברגר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-028	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית סטרוגו אלברט, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-029	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מזור ח.ל, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-030	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ירושלמי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-031	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חורושנסקי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-032	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מינצר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-033	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פייפש, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-034	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית לוסטיג, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-035	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית הירש מוריץ, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-036	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פורל, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-037	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ווקסלר. ר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-038	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פאפו, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-039	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית שולמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-040	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אנדרסון, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-041	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בן עמי, נתניה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-042	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - רהיטים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-043	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-001-044	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית מגורים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי עסק, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות טקסטיל, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סטודיו אופנת נשים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - קומפטואר CDF, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - מרפאת שיניים רוזנברג, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - משרד אלפרד אברהם, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - משרד רוזנטורס, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - משרד אל-על, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות FOR YOU, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות אייזנר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות אריה ח' נעליים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות הארנק, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות אורלוגין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית קפה לארו, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - מאפיית שובע, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות רודאן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות המגבעת, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - חנות מהודר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - חנות נוי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-019	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - ספריית מוריה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-020	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות פישינגר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-021	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות אולטראגז, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-022	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות סטרוגו, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-023	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות יעקובי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-024	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מרקחת קארינקין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-025	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי עסק שונים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-026	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חנות רוויה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-027	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - משרד אלפרד אברהם, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-028	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - חנות משה אבואב, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-002-029	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - חנות NU Enamel, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 2 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית ווקסלר. א, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חבס הרצל, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית יעקובוביץ', מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית סרזין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית רזכן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-003-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ד""ר שטיינר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 3 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית רייך, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית הירש הרי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית הלפרן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית רחלי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-004-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אלכסנדרוביץ', מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-005	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 4 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-005-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פפריקה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-005-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ד""ר מזור, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-006	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 5 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-006-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ירושלמי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-006-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית קליימן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-007	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית זלצמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-007-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית זלצמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-008	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 6 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-008-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פייפש, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-008-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פרומצ'נקו, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-009	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 7 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-009-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית יגרמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-009-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית גולדמן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-010	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 8 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-010-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית סטרוגו רפאל, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-010-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פורמה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-010-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אלקון אריה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-011	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 9 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-011-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חבס, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-011-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית לוריא, חיפה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-011-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מאוטנר-לוריא, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-012	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 10 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-012-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית דויטשר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-012-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית וולפלד, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-013	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 11 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-013-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חפץ, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-013-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית הירש, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-013-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ירושלמי חיים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-013-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית קוטשר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 12 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אכסלרוד, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ווינשטיין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית קירשנבאום, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית זאבי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בוטקובסקי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית לוי צדוק, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חבס אברהם, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית לבנזון, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-014-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית רוטשטיין, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 13 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בן-עזר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית איולו מרים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית ניימצ'יק בלומה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ווקסלר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ד""ר שפירא, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית חבס הרצל, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית אל-דור, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-015-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגנוס יוחנן, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-016	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, מיקומים שונים, 14 מתוך 14"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-016-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית יעקובר, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-016-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פרומצ'נקו, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-016-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מור, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-016-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פרויקטים שונים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-017	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - פורטרטים ומשרד אלפרד אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-017-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי פורטרט - אלפרד אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-017-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - משרד אלפרד אברהם, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-018	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - תערוכות ואירועים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-018-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - ועידת ישראל לאדריכלות 2011, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-018-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתים מבפנים, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-019	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תהליכי עבודה, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-002-019-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תהליכי עבודה, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003	אוסף אלפרד אברהם	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רפאל אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פרויקטים שונים, מיקומים שונים, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי מודל - מבנים לא ידועים 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - מבנה לא ידוע, מיקום לא ידוע 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, רמת השרון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית בן חיים, כפר שמריהו"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ויינר, כפר שמריהו"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - מבנה לא ידוע, מיקום לא ידוע 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית פלוטקין, הרצליה פיתוח"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי מודל - מבנה לא ידוע, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בתי מגורים, רמת חן 1מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בנק טפחות, ירושלים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומי מודל - מבנים לא ידועים 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום, משרד SwissAir, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית סטוצנסקי, כפר שמריהו"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - גן ילדים, קראון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, רמת חן 2 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, רמת חן 3 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, רמת חן 4 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-019	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - בית מגורים, גנות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-020	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - שיכון קצינים, רסקו"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-021	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, רמת חן 5 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-022	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית מגורים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-023	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - מוזיאון לארכאולוגיה, גן השלושה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-024	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ד""ר תיאודור, רמות השבים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-025	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בנק טפחות, ירושלים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-026	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי מודל - בית ספר מקיף, יבנה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-027	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - מרכז קהילתי, נוף ים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-028	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תיכון יגאל אלון, רמת השרון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-029	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בית ספר מעיין, יבנה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-030	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - בנק אוצר החייל, אילת"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-031	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - מבנים לא ידועים, במיקומים לא ידועים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-032	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלום - מנורת ""הביצה"", חיפה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-001-033	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - חדרי שינה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטי ביצוע - רהיטים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - רהיטים, מיקומים שונים, 1 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - גופי תאורה, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - רהיטים, מיקומים שונים, 2 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - רהיטים, מיקומים שונים, 3 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - רהיטים, מיקומים שונים, 4 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - רהיטים, מיקומים שונים, 5 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-002-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רישום אדריכלי - פרויקטים שונים, מיקומים שונים"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים - פרויקטים שונים, מיקומים שונים, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות בינוי, ישוב עשרת"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בית רפאל אברהם, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בית גולן, רמת גן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, ישיבת שער אליעזר, רחובות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, משרד אדריכלים, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, מוזיאון ניר דוד"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, מוזיאון ניר דוד"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בית ישראל שטרן, בני ברק"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-012	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-013	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-014	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-015	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, ישיבת שער אליעזר, רחובות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-016	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, ביה""ס יגאל אלון, רמת השרון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-017	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנון עירוני, שכונת רסקו, קרית אונו"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-018	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, ביה""ס יגאל אלון, רמת השרון"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-019	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-020	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-003-021	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שרטוטים, בתי מגורים, רמת חן"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-004	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים, רפאל אברהם"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-004-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים מנהליים - רשימות פרויקטים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-003-004-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים מנהליים - רפאל אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004	אוסף אלפרד אברהם	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חפצים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-001	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטי פרזול ונגרות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-001-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - ידיות ומנעולים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-001-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - מתלים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-001-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - דוגמאות עץ ומתכת	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-001-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - חפצים שונים שלא נסרקו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-002	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שלטים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-002-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - שלטי משרד	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-002-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - שלט הקדשה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-003	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חפצים אישיים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-003-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - דפדפת פרויקטים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-004-003-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום חפץ - קופסת צבעים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005	אוסף אלפרד אברהם	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים, פרסומים וחולפות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-001	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים אישיים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-001-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	יומן אישי - אלפרד אברהם	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרסומים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מגזין-חו""ל - ""Architecture D'aujourdhui"""	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-002	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מגזין - ""Domus ישראל"""	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-003	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"ספר - תצלומים מבית חבס, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-004	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתון ""הארץ"" - חדר הילדים - הפנה הנשכחת"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-005	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מגזין ""את"" - תל אביב - ביירות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-006	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתון - מודעת פרסומת לקפה לארו, תל אביב"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-007	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתון - Architecture in Palestine	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-008	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתון - Statues in court	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-009	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתון ""דבר"" - לא לנשים בלבד"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-010	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתון ""מעריב"" - מודעת דרושים לאלפרד אברהם"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-002-011	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתון ""Palestine Post"" - מודעת פרסומת לאלפרד אברהם"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-003	אוסף אלפרד אברהם	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חולפות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAlAv-005-003-001	אוסף אלפרד אברהם	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הזמנה - ועידת ישראל לאדריכלות 2011	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED

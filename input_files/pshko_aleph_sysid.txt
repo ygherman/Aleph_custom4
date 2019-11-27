@@ -1,0 +1,2455 @@
+## - XML_XSL
+<?xml version="1.0"?>
+<printout>
+<form-name>catalog-records-columnar</form-name>
+<form-language>ENG</form-language>
+<form-format>11</form-format>
+<subject>Catalog Records Columnar</subject>
+
+
+<section-01>
+<form-date>07/07/2019</form-date>
+<sub-library-address-1-occ1>NNL01</sub-library-address-1-occ1>
+</section-01>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276191</data-1>
+<title-2>911</title-2>
+<data-2>PShKo</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276192</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276193</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276194</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276195</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276196</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276197</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276198</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276199</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276200</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276201</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276202</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276203</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276204</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276205</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276206</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276207</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276208</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-015</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276209</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-016</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276210</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-017</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276211</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-018</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276212</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-019</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276213</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-020</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276214</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-021</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276215</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-022</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276216</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-023</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276217</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-024</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276218</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-025</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276219</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-026</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276220</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-027</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276221</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-028</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276222</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-029</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276223</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-030</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276224</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-031</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276225</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-032</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276226</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-033</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276227</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-034</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276228</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-035</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276229</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-036</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276230</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-037</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276231</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-038</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276232</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-039</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276233</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-040</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276234</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-041</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276235</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-042</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276236</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-043</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276237</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-044</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276238</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-045</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276239</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-046</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276240</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-047</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276241</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-048</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276242</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-049</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276243</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-050</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276244</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-051</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276245</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-052</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276246</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-053</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276247</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-054</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276248</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-055</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276249</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-056</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276250</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-057</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276251</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-058</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276252</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-059</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276253</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-060</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276254</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-061</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276255</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-062</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276256</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-063</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276257</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-064</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276258</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-065</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276259</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-066</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276260</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-067</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276261</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-068</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276262</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-069</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276263</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-070</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276264</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-071</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276265</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-072</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276266</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-073</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276267</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-074</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276268</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-LDNBG-075</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276269</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276270</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276271</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276272</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276273</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276274</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276275</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276276</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276277</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276278</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276279</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276280</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-IDO-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276281</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276282</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276283</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276284</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276285</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276286</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276287</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276288</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276289</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276290</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276291</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276292</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276293</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276294</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276295</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276296</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-015</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276297</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-016</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276298</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-017</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276299</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-018</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276300</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-019</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276301</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-020</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276302</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-021</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276303</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-022</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276304</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-023</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276305</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-024</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276306</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-025</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276307</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-026</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276308</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-027</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276309</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-028</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276310</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-GVA-029</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276311</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276312</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276313</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276314</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276315</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276316</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276317</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276318</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276319</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276320</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276321</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276322</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276323</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276324</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276325</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276326</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-015</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276327</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-016</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276328</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-017</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276329</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-018</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276330</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-019</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276331</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-020</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276332</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-021</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276333</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-022</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276334</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-023</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276335</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-024</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276336</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-025</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276337</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-026</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276338</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-027</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276339</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-028</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276340</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-029</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276341</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-030</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276342</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-031</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276343</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-032</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276344</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-033</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276345</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-034</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276346</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-035</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276347</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-036</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276348</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-037</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276349</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-038</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276350</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-039</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276351</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-040</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276352</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-041</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276353</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-042</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276354</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-043</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276355</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-044</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276356</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-045</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276357</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-046</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276358</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-047</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276359</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-048</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276360</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-049</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276361</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-050</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276362</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-051</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276363</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-052</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276364</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-053</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276365</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-054</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276366</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-055</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276367</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-056</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276368</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-057</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276369</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-058</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276370</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-059</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276371</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-060</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276372</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-061</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276373</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-CHO-062</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276374</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276375</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276376</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276377</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276378</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276379</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276380</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276381</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276382</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276383</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276384</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276385</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276386</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276387</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276388</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276389</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-DNC-UKDC-015</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276390</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276391</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276392</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276393</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276394</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276395</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276396</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276397</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276398</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276399</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276400</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276401</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276402</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276403</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276404</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276405</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-HUMAN-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276406</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-DNC</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276407</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-DNC-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276408</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-DNC-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276409</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-DNC-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276410</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-DNC-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276411</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276412</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276413</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276414</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276415</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276416</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276417</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276418</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276419</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276420</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-009</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276421</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-010</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276422</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-011</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276423</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-012</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276424</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-013</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276425</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-MUS-014</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276426</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276427</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-001</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276428</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-002</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276429</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-003</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276430</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-004</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276431</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-005</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276432</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-006</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276433</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-007</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+
+<section-02>
+<title-1>Doc. No.</title-1>
+<data-1>005276434</data-1>
+<title-2>911</title-2>
+<data-2>PShKo-ART-ACT-008</data-2>
+<title-3>911</title-3>
+<data-3>אוסף שוש קורמוש</data-3>
+</section-02>
+
+</printout>

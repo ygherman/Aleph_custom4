@@ -1,0 +1,880 @@
+﻿911##a	911##c	351##c	LDR	008	24510a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+PAmHe	אוסף עמוס חץ	אוסף	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אוסף עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו אודיו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998 - Tape 1 out of 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998 - Tape 2 out of 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998 -  Tape 3 out of 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998 - Tape 4 out of 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-001-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Potsdam 1998 - קלטת 5 מתוך 5	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Cologne 1997	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Cologne 1997 - קלטת 1 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Cologne 1997 - קלטת 2 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Cologne 1997 - קלטת 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-002-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations Cologne 1997 - קלטת 4 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הוראה - המגמה לתנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עבודות - המגמה לתנועה, 1987"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עבודות - המגמה לתנועה, 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנית מופע - המגמה לתנועה, 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מופע סיום - החוג לתנועה שנה ד', 1996"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - החוג לתנועה שנה ד', 1996 - 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מופע סיום - החוג לתנועה שנה ד', 1996"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - החוג לתנועה שנה ג', 1998"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 1 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 2 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 3 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 4 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 5 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 6 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה עם עמוס חץ 2003 - 7 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'דואטים במוזיאון', 1996"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - המגמה לתנועה, 1986, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - המגמה לתנועה, 1986, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - המגמה לתנועה, 1986, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עבודות של תלמידים מהאקדמיה 1982, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עבודות של תלמידים מהאקדמיה 1982, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רשימה - 'עבודות של תלמידים מהאקדמיה 1982, 2 מתוך 2'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-003-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - החוג לתנועה שנה ד', 1996 - 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	לא ידוע 2002	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"לא ידוע - 2002, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"לא ידוע - 2002, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"לא ידוע - 2002, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"לא ידוע - 2002, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Videotape - Open Class 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קלטת 1 מתוך 2 -Open Class Munich, 1987 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Open Class, 1988 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Open Class, 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - תכנית השיעור הפתוח, 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Open Class, 1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Open Class Munich, 1991 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-005-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קלטת 2 מתוך 2 -Open Class Munich, 1987 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעות - 'אנסמבל תנועות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 1 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רשימה - סדר הריקודים, יוני 1983"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה בירושלים - 'אנסמבל תנועות', 1986 - 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה בירושלים - 'אנסמבל תנועות', 1986 - 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה בניסן נתיב - 'אנסמבל תנועות', 1988"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה ב'ריקודי חדר' - 'אנסמבל תנועות', 1999 - 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה ב'ריקודי חדר' - 'אנסמבל תנועות', 1999 - 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 2 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 3 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 4 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 5 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה ב'ריקודי חדר' - 'אנסמבל תנועות', 1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה ב'ריקודי חדר' - 'אנסמבל תנועות', 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעת ריקודי מעגל - 'אנסמבל תנועות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל תנועות', 1991"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'הקבוצה', 1979"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-006-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימה שצורפה לקלטת 'הקבוצה 1979'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-007	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Performance - From Action to Movement, 2001"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-007-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"2001 ,'From Action to Movemen' - קלטת 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-007-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"2001 ,'From Action to Movemen' - קלטת 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-007-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"2001 ,'From Action to Movemen' - קלטת 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-007-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"2001 ,'From Action to Movemen' - קלטת 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-008	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Workshop - Lisa Nelson	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-008-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"סדנה - Lisa Nelson, קלטת 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-008-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"סדנה - Lisa Nelson, קלטת 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-009	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Performance - John G. Harries	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-009-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - John G. Harries, קלטת 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-009-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - John G. Harries, קלטת 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-009-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - John G. Harries, קלטת 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-009-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - John G. Harries, קלטת 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-010	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי מחול מאת נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-010-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי מחול מאת נועה אשכול - 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-010-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי מחול מאת נועה אשכול - 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-010-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"נועה אשכול ורקדנים נוספים, 1960"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Performance - Steve Paxton	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 1 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 2 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 3 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 4 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 5 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 6 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 7 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 8 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-011-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Steve Paxton, קלטת 9 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-012	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי מחול - עמוס חץ, 1986"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-012-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי מחול - עמוס חץ, 1986, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-012-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי מחול - עמוס חץ, 1986, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-012-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי מחול - עמוס חץ, 1986, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-012-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי מחול - עמוס חץ, 1986, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעות - 'פסטיבל ריקודי חדר'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1991, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1991, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1991, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1992, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1992, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1992, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1992, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1993, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1993, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1993, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 2 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1995, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 2 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1996, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 1 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 2 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 3 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 4 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 5 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 6 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 7 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 8 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-031	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 9 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-032	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 10 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-033	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1997, 11 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-034	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 1 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-035	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 2 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-036	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 3 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-037	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 4 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-038	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 5 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-039	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 6 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-040	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 7 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-041	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 8 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-042	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 9 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-043	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1998, 10 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-044	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1999, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-045	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1999, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-046	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1999, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-047	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1999, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-048	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-049	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2001, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-050	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2001, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-051	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2001, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-052	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 1 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-053	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 2 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-054	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 3 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-055	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 4 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-056	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 5 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-057	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 6 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-058	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 7 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-059	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 8 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-060	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2002, 9 מתוך 9"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-061	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 1 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-062	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 2 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-063	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 3 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-064	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 4 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-065	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 5 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-066	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 6 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-067	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 7 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-068	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 8 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-069	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 9 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-070	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 10 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-071	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 11 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-072	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 12 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-073	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 13 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-074	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 14 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-075	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2003, 15 מתוך 15"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-076	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-077	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 2 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-078	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-079	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-080	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-081	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2004, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-082	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 1 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-083	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 2 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-084	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 3 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-085	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 4 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-086	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 5 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-087	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 6 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-088	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 7 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-089	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 8 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-090	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 9 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-091	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 10 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-130	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2005, 11 מתוך 11"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-092	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2006, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-093	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2006, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-094	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2006, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-095	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 1 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-096	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 2 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-097	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 3 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-098	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 4 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-099	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 5 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-100	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 6 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-101	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2007, 7 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-102	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2008, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-103	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2008, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-104	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2008, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-105	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2010, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-106	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2010, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-107	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2010, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-108	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כנס - 'ריקודי חדר', 2010"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-109	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2011, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-110	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2011, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-111	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2011, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-112	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כנס - 'ריקודי חדר', 2011"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-113	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2012, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-114	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2012, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-115	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2012, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-116	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2013, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-117	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2013, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-118	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2013, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-119	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2013, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-120	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כנס - 'ריקודי חדר', 2013"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-121	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2014, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-122	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2014, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-123	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כנס - 'ריקודי חדר', 2014"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-124	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2015, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-125	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2015, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-126	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2015, 3 מתוך 3 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-127	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-128	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-013-129	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'ריקודי חדר', 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי וידאו שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - יום לתנועה באוניברסיטת ברן, 2003"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Berlin Podewil', 1992'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - חזרה להופעה, 1986"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'המעיל', 1988"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Amos Hetz, 1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - עמוס חץ בקלן, 1997"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'בגטלות בארטוק', 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	צילומי וידאו מאירועים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Demonstration Munchen', 1987'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אנסמבל לריקוד א-קפלה', 2003"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רשימות - 'אנסמבל לריקוד א-קפלה', 2003"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעה - 'כנס מחולות' ועשור לשער העמקים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Kazoo Ohno, קלטת 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חזרה - עמי-ים ועמי-יער	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - Kazoo Ohno, קלטת 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'משחקים', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'משחקים', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - Artist’s Studio Dance', 1984'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתבת טלוויזיה על כתב תנועה - 1977	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתב מאת נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קלטת וידאו ללא כותרת, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'תיבת נח', 1980"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעה - Betsy Fisher	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קלטת 1 מתוך 2 - Lecture Demonstration by Amos Hetz 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קלטת 2 מתוך 2 - Lecture Demonstration by Amos Hetz 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	" הופעה - Simone Forti, קלטת 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	" הופעה - Simone Forti, קלטת 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - עמוס חץ בברלין, 1992"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-031	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'נגיעות ברוח', פוטסדאם, 1992"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-033	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - הרצאה של עמוס חץ, 1993"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-034	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - הופעה של עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-035	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - הופעה של עמוס חץ, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-036	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קלטת וידאו ללא כותרת, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-037	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - Erik Satie	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-038	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - ריקי דון פלוק	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-039	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - נילי ממן, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-040	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - נילי ממן, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-041	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Video - `I am Drawing You are Dancing` - Berlin	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-042	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Video - `I am Drawing You are Dancing` - Kabri	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-043	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - `Five Movement Adventures` - Berlin, 1 out of 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-044	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - `Five Movement Adventures` - Berlin, 2 out of 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-045	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - `Following Socrates`, 1997"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-046	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Video - Movement Studies - Berlin, 2007"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-047	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - ריקודים בסטודיו של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-014-048	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Video - Vexations	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-016	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעות וחזרות - מילים פורחות 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-016-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מילים פורחות', 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-016-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מילים פורחות', 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-016-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מילים פורחות', 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-016-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - 'מילים פורחות', 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-017	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הופעה - 'אלמנטים' בברלין	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-017-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אלמנטים' בברלין, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-017-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אלמנטים' בברלין, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-017-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אלמנטים' בברלין, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-017-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'אלמנטים' בברלין, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כסא 2003	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 2 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-018-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הופעה - 'כסא', 2003, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Einführung 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 1 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 2 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 3 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 4 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 5 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 6 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-019-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Einführung 1992 - קלטת 7 מתוך 7	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-020	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Workshop in Lengnau 2008	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-020-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Workshop in Lengnau 2008 - דיסק 1 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-020-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Workshop in Lengnau 2008 - דיסק 2 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-020-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Workshop in Lengnau 2008 - דיסק 3 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-020-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Workshop in Lengnau 2008 - דיסק 4 מתוך 4	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	וידאו - חזרות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - תיעוד חזרה, 1 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - תיעוד חזרה, 2 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - תיעוד חזרה, 3 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - תיעוד חזרה, 4 מתוך 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-021-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"וידאו - חזרה באמסטרדם, 1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קלטות שמע	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - 'MARVADIM A & B'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - 'MARVADIM C & D''	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	`An Audio - 'ALTE SCHMIEDE WIEN	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	`An Audio - 'AMOS INTERVIEU III IV	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - ראיונות עם עמוס חץ ואמנון וולמן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - מרים גולדברג על 'להיות מודע'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'ריקודי חדר', 1995"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'ריקודי חדר', 1999"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'בארטוק דואטים', 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'בארטוק דואטים', 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'בארטוק דואטים', 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - הרצאה 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - 'TNUOT ENSEMBEL'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - ריקודי עם, אמנון וולמן "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - Erik Satie - Socrate	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - סימפוזיון 'מהי תנועה אחת'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - John Cage, קלטת 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - John Cage, קלטת 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - 'The thinking dance'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - Chakolte Selver	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אודיו - 'עמוס, חומי וענת'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - Chakolte Selver	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Decture Alte Schmiede', 1996'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - Elisabeth Schwerzket	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קלטת אודיו ללא כותרת	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	  אודיו - אמנון וולמן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קלטת אודיו ללא כותרת, 1995"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Interview with Amos Hetz, 2006"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אודיו - הרצאה של עמוס חץ בדרזדן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-022-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - Vexations 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-023	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Audio - Movement Studies - Berlin	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-023-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Movement Studies - Berlin, 2004, 1 out of 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-023-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Movement Studies - Berlin, 2004, 2 out of 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-023-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Movement Studies - Berlin, 2004, 3 out of 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-001-023-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"An Audio - Movement Studies - Berlin, 2004, 4 out of 4"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הוראה ופעילות אקדמית	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הוראת כתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - תרגול עבודות נתונות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - תרגול כתיבה ב-360 מעלות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - תרגול של סדרת תנועות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 'מתכונות אבסטרקטיות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה- 'מתכונות אבסטרקטיות ללא פיתוח'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 'מתכונות אבסטרקטיות כולל פיתוח'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - תרגול כתיבה במילים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חיבורים על כתיבת תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 'קפיצות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 'פוזיציות בבלט הקלאסי'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 'פוזיציות שונות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מערך שיעור - כתב תנועה, 1977"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בחינות ושיעורים - כתב תנועה, 1982-1966"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - תרגול ניתוח בגטלות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-001-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כתב תנועה -עבודות של תלמידות, 1960-1959"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים שונים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים באנגלית - מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים באנגלית - כללי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים בגרמנית - כללי	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים - טכניקת אלכסנדר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סיכום סדנה - 'פסיכולוגיה של תנועה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-002-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	`Lisa Nelson - `Fragment of a Tuning Run	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנאות והרצאות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - סדנאות חו""ל, 1989-1980"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות - סדנאות חו""ל, 1989-1980"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים תקציביים - סדנאות חו""ל, 1989-1980"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Documents - Theaterhaus Berlin, 1984"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - סדנאות חו""ל, 1999-1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - סדנאות חו""ל, 2000-1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - סדנאות חו""ל, 2016-2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Flyers - Movement Studies, 2009-2017"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - סדנאות והרצאות בישראל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות - הרצאות ב'קונצ'רטו לקולנוע'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טיוטות - הרצאות ב'קונצ'רטו לקולנוע'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרזות - הרצאות של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Booklet - `Amos Hetz Movement Studies`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הרצאות ושיעורים בעברית - עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הרצאות ושיעורים בעברית - עמוס חץ, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הרצאות ושיעורים באנגלית - עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הרצאה - מפגש מחברים בכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הרצאות ושיעורים באנגלית - עמוס חץ, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימה - סדר נושאי המסה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שלוש רשימות - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Lectures - Feldenkrais Conference	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הרצאה - 'תיווי גרפי לכתב תנועה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימות - כנס על מתודות בחקר מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-003-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתבים מתלמידים של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	האקדמיה למוסיקה ולמחול בירושלים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים - מינוי למרצה בכיר באקדמיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים - מינוי לפרופסור חבר באקדמיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים מנהליים - האקדמיה למוסיקה ולמחול, 1982-1971"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים מנהליים - האקדמיה למוסיקה ולמחול, 2006-1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - האקדמיה למוסיקה ולמחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי עיתונות - האקדמיה למוסיקה ולמחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-004-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרוטוקול - דיון על בחינת הבגרות במחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרסומים של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - 'Listening to the Gesture'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Few Comments on the Nature of My Work'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Amos Hetz Wrote on Movement Notation	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Amos Hetz on Scores'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Abstract - 'The Circle Concept in Dance and Movement Notation'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים מנהליים - פעילות אקדמית	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1975-1972"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1976"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1977, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1977, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1979-1978"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1980"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1981"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1982"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכים - פעילות אקדמית, 1989-1985"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-002-006-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Amos Hetz - Teaching and Application of Eshkol-Wachman Movement Notation	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתת כתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות - סקיצות של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות ורשימות - עמוס חץ 1960-1959	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 מסמכים שונים - 'גמנסטיקה ואנטומיה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רישומים - גמנסטיקה ואנטומיה עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	איורים אנטומיים - גמנסטיקה ואנטומיה עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימות - גמנסטיקה ואנטומיה עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	האגודה לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - האגודה לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הקדמות לספרים מאת נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים - כתב התנועה אשכול-וכמן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תקצירים והקדמות - כתב התנועה אשכול-וכמן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - האגודה לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות חו""ל - האגודה לכתב תנועה"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרסומים - האגודה לכתב תנועה, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרסומים - האגודה לכתב תנועה, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-003-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חוברת הדרכה - האגודה לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הקונגרס הבינלאומי לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - הקונגרס הבינלאומי לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - הקונגרס הבינלאומי לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `L'Après-midi d'un Faune - A Revival`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `Dance Notation by Nomination of Localities`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Lecture Transcript - `Analysis of Animal's Behavior, Using E.W.M.N`"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `Body Image and Movement Notation`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `Eshkol-Wachman Movement Notation and Kinetic Art`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `Utilization of a computer-based system in the teaching of Movement Notation`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - `Honey Badger Interactions Described in E.W.M.N`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Lecture Summary - `Simultaneous Movement – Phenomenon and Representation`
+"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Summary -`Music Notation`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עבודת מחקר - `Human Movement Notation`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 A Lecture Summary - `The Perception of Movement`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - `What is a Dance? Implication for Dance Notation`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - The Effects of Movement Notation on Students	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - `Notation and anthropology - Some Theoretical Considerations`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 An Article Summary - `An Initial Investigation Into Ghanaian Dance`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - `The Gavotte: Four Notation Scores from Four Centuries`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 A Lecture Summary - `Notation As a Tool For Video`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - `Perception and Responsibility of Recording Dance In Social Contexts`	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - 'The Use of B.M.N In Clinical Work	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	An Article - `The Labanotation of Human Gait	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Lecture Transcript - 'Leonardo`s Movement Studies and Eshkol-Wachman Notation'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרזות - הקונגרס הבינלאומי לכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-004-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מודעה - הקונגרס הבינלאומי לכתב תנועה, 1990"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתבים מאת נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימות אישיות על נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - 'שטיחים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות ישראלית - נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות חו""ל - נועה אשכול"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עבודות תלמידים - כתת תנועה של נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרזות - 'רקוד קאמרי', נועה אשכול"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרזה - 'שטיחים', נועה אשכול"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תמלול ריאיון - עמוס חץ על נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הרצאות של עמוס חץ על נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-005-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות - אירועים נלווים לתערוכה ""נועה"""	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים וכתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים - מישורי ביניים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כתב תנועה - קונוסים לזרוע שמאל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים וכתב תנועה - שונות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תשלילים - מודלים של כתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-006-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	איורים - מודלים של כתב תנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-007	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סימפוזיון לכבוד רודולף לאבאן 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-007-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - סימפוזיון לכבוד רודולף לאבאן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-007-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים מנהליים - סימפוזיון לכבוד רודולף לאבאן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-008	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחקר על יישום כתב-תנועה בזאולוגיה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-008-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חומרים גרפיים המדגימים תנועת ציפורים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-008-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מאמרים מאת אילן גולני	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-008-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Articles by Dietmar Todt	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-008-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Articles by Hans-Jürgen Stork 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-009	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 Conference on 'Notational Engineering'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-009-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Documents - Conference on 'Notational Engineering'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-009-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Lectures - Conference on 'Notational Engineering'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות - שנות ה-70	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1971-1968'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 1977-1972	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	 מחברת תרגום - עיקרי כתב התנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1982-1975	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'על הוראת תנועה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'תכנית טלויזיה - ינואר 1977'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 'סקיצות - 1977'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'קורס בהולנד - 1977'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 'עבודות בתנועה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'חזרות - 1980-1978'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 'תנועות - 1980-1979'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחברת עבודה - הרהורים על מחול, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-001-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחברת עבודה - הרהורים על מחול, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות - שנות ה-80	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 'דואטים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'חזרות - 1984-1980'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ עד מאי 1981	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל עד מאי 1981	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני 1981	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחברת עבודה - אוקטובר 1981, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחברת עבודה - אוקטובר 1981, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1986-1983	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 'תנועות' - 1989-1984	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 1989-1984	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1986	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1987-1986	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1991-1986	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ עד ספטמבר 1987	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ספטמבר עד דצמבר 1987	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1994-1987	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד פברואר 1988	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד יוני 1988	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני עד ספטמבר 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ספטמבר 1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1989-1988	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחברת עבודה - סדנאות בגרמניה, 1989-1988"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד יוני 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני עד אוגוסט 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ספטמבר עד דצמבר 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-002-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1991-1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות - שנות ה-90	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד פברואר 1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד מרץ 1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ עד אוגוסט 1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט עד ספטמבר 1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1991-1990	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד אוגוסט 1991	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט עד נובמבר 1991	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - דצמבר 1991 עד מאי 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל 1991 עד מרץ 1993	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל 1991 עד מאי 1995	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ עד יוני 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני עד אוגוסט 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט עד אוקטובר 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני עד נובמבר 1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1993-1992	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד אפריל 1993	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ עד דצמבר 1993	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה וכתב תנועה - 1997-1993	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1995-1994	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מרץ 1995 עד יולי 1996	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מאי 1995 עד יוני 1996	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי 1996 עד מאי 1997	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי 1996 עד אוקטובר 1997	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מאי 1997 עד מאי 1998	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2001-1997	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2000-1998	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט 1998	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 1999-1998	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2000-1999	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-003-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת כתב תנועה - 2000-1995	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות - 2009-2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2001-2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי עד ספטמבר 2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - שנת שבתון 2002-2001	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2002-2001	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד אפריל 2002	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל עד יוני 2002	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי עד ספטמבר 2002	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2003-2002	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה -  פברואר עד יולי 2003	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה -  'כסא 2003'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה -  2004-2003	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד יוני 2004 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יוני עד נובמבר 2004 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2005-2004	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל עד אוגוסט 2005 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט עד דצמבר 2005 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד אוגוסט 2006 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט עד דצמבר 2006 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2007-2006 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2008	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-004-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2013-2009	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברות 2017-2010	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2010	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2011-2010	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2011	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2012	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2013-2012	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד יולי 2013	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי עד דצמבר 2013	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה -  ינואר עד יוני 2014	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - יולי עד אוקטובר 2014	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ינואר עד אפריל 2015	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - מאי עד ספטמבר 2015	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - ספטמבר עד דצמבר 2015	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2016-2015	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2016	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - 2017-2016	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד אפריל 2017	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אפריל עד אוגוסט 2017	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - אוגוסט 2017 עד ינואר 2018	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-004-005-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מחברת עבודה - פברואר עד מאי 2018	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אנסמבל תנועות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרזות - 'אנסמבל תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - 'הקבוצה לתנועה ולכתב' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - 'אנסמבל תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טיוטות של עלונים - 'אנסמבל תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי עיתונות - 'אנסמבל תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'אנסמבל תנועות', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-005-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'אנסמבל תנועות', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פסטיבל ריקודי חדר'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פסטיבל ריקודי חדר' - 1999-1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - 'ריקודי חדר', 1999-1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'ריקודי חדר', 1999-1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכתובות  - 'ריקודי חדר', 1999-1997"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות  - 'ריקודי חדר', 1999-1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-001-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי עיתונות מתורגמים - 'ריקודי חדר', 1991"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פסטיבל ריקודי חדר' - 2009-2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - 'ריקודי חדר', 2009-2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'ריקודי חדר', 2009-2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תקצירי אירועים - 'ריקודי חדר', 2005-1989."	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות  - 'ריקודי חדר', 2003-2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-002-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות  - 'ריקודי חדר', 2009-2004"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פסטיבל ריקודי חדר' - 2018-2010	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - 'ריקודי חדר', 2018-2010"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'ריקודי חדר', 2018-2010, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מסמכי הפקה - 'ריקודי חדר', 2018-2010, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קטעי שירה - 'ריקודי חדר', 2018-2010"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות - 'ריקודי חדר', 2018-2010"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ציורים של דותן דביר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-006-003-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרזות - 'ריקודי חדר', 2016-1992"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עמותת 'תנועות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרוטוקולים - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מענק מקרן רבינוביץ - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בקשת תמיכה ממשרד התרבות והספורט - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתבים שנשלחו ל'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מסמכים תקציביים - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טפסים ריקים - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-007-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דרישות לתשלום אגרה - 'עמותת תנועות' 	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	יצירות והופעות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טיוטות ופרטיטורות של יצירות מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - '30 מעלות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'קפיצות I'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - 'קפיצות II', תיק 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - 'קפיצות II', תיק 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'נפילות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - 'גו', 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - 'גו', 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'גו רוורס I'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'משולש I'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'משולש II'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'מעגל'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'נגיעות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'סיבובים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - יצירה לא ידועה, 1 מתוך 2 "	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - יצירה לא ידועה, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'גשם' ו-'גשם איטי'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'עץ'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'רעשים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'נגיעות ברוח'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'גלגל המזלות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'מרבדים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורות - 'גרסאות שונות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'Langnau'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'קונוסים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'I Am Stretched'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'הומאז'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'פרלוד X'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטוטות - יצירות מחול שונות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'I Ching'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטיטורה - 'מעגלים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-031	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורות - 'פנתר', 'תרנגולת', 'ראמו'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-032	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Scores - 'Hans Otte', 'Empty'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-033	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'Fragments	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-034	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'Hidden Circles	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-035	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'Personal History	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-036	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Score - 'Poem	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-037	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טקסט - סיפורי גוף	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-038	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הכנה ליצירה - 'פיירו הסהרורי'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-039	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הכנה ליצירה - '4.33'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-001-040	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כפולות - פרטיטורות של יצירות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה ליצירות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה - 'זעזועים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה - 'ארבעה שירים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרטיסיות הכנה - 'אלמנטים', ברלין"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרטיסי ריקוד - 'מפעולה לתנועה', תיק 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרטיסי ריקוד - 'מפעולה לתנועה', תיק 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה -'Satie Chair'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה - '13 Shifts Mompou'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרטיסיות הכנה - 'Restart Goldberg Variations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כרטיסיות הכנה - 'Berio, דואטים לשני כינורות'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-002-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות - 'מציירים ורוקדים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שבעת החטאים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימות - 'שבעת החטאים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תיאור היצירה - 'שבעת החטאים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טיוטת היצירה - 'שבעת החטאים'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Letters - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Production Documents - 'Vexations', 1996-1998"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Production Documents - 'Vexations', 2000-2018"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Sheet Music - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Movement Notation - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Publications - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Programmes and Brochures - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Photographs - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-004-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Poster - 'Vexations'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בעקבות סוקרטס	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הרצאות - 'בעקבות סוקרטס'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כתב תנועה - 'בעקבות סוקרטס', תיק 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כתב תנועה - 'בעקבות סוקרטס', תיק 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Sheet Music - 'Socrate'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-005-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	טקסטים - הדיאלוגים של אפלטון	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-006	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בארטוק בגטלות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-006-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"Scores - 'Fourteen Bagatelles', Béla Bartók'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-006-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטיטורה - 'בארטוק בגטלות', עמוס חץ"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-006-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"A Booklet - 'Study to Studio, Bartok`s Bagatelles'"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-007	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הכנה ליצירה על בסיס מפות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-007-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות - הכנה ליצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-007-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מפות - הכנה ליצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-007-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרסומים - הכנה ליצירה לא ידועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות, עלונים וכרזות של הופעות"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות ועלונים - הופעות בחו""ל"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ועלונים - הופעות בישראל	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	Personal Biology'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	  'Tanzpool Festival'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-008-008-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרזות - הופעות של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חומרים אישיים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-001	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קטעי עיתונות על עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-001-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות ישראלית - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-001-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות חו""ל - עמוס חץ, 1997-1974"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-001-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"עיתונות חו""ל - עמוס חץ, 2006-2002"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-001-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"ריאיון וטיוטות - עמוס חץ, 2009"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-002	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שמואל חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-002-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עיתונות - שמואל חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-002-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חיבור ושיר - שמואל חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-003	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	יצירות נוספות של עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-003-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כרזה עם תמונה שצילם עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-003-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	A Poem - Heart Chambers	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-003-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קולאז'ים - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-004	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חומרים אישיים - שונות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-004-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנייה - 'שיר השכונה'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנייה - 'זה האיש!'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-004-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מכתבים שנשלחו לעמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-003-001-004-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מכתבים שנשלחו לעמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-004-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מעטפה עם עטיפות של קוביות סוכר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-005	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הסכמים ומסמכים מנהליים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-005-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הסכם חברות בעמותת כוריאוגרפים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-005-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	השכרת סטודיו בסדנאות האמנים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-005-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מכתב לועדה המקומית לתכנון ובנייה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-006	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תעודות ופרסים - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-006-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"זכייה בפרס לנדאו, 2013"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-006-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועמדות לפרס שרת התרבות, 2014"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-006-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תעודות - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-009-006-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קורות חיים - עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010	אוסף עמוס חץ	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עמוס חץ רוקד בנערותו	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פורטרטים של עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פורטרטים של עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - קולאז'ים שעמוס חץ יצר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - דניס סילק	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קונטקטים - אוסף עמוס חץ	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תשלילים - אוסף עמוס חץ, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תשלילים - אוסף עמוס חץ, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 1 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 2 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 3 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 4 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 5 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 6 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 7 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 8 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 9 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 10 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 11 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 12 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הקבוצה של נועה אשכול, 13 מתוך 13"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - נועה אשכול בביתה בחולון	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - נועה אשכול ועמיתים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 1 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 2 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 3 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 4 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 5 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 6 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - נועה אשכול, 7 מתוך 7"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תערוכת 'שטיחים', נועה אשכול"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-008-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - תשלילים של נועה אשכול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הוראה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידות באקדמיה למוסיקה ולמחול, 1966, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידות באקדמיה למוסיקה ולמחול, 1966, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידות באקדמיה למוסיקה ולמחול, 1967"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידות באקדמיה למוסיקה ולמחול, 1968"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - קבוצת כתב א', 1968"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - קבוצת כתב ב', 1968, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - קבוצת כתב ב', 1968, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - פורים בסמינר, 1971"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידותיו של עמוס חץ, 1 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידותיו של עמוס חץ, 2 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידותיו של עמוס חץ, 3 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידותיו של עמוס חץ, 4 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - תלמידותיו של עמוס חץ, 5 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עמוס חץ ואילנה נדיר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אלבום תצלומים - החוג לתנועה, 1981"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - החוג לתנועה, 1982"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בירושלים, סתיו 1988"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סמינר, קיץ 1988"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בירושלים, חורף 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה במינכן, פברואר 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-021	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - שיעורים בחוג לתנועה	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-022	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - שיעור בחוג לתנועה, מאי 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-023	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה, יוני 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-024	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - סדנה עם סטיב פקסטון	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-025	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - סדנה בסטודיו ביד חרוצים	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-026	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - סדנה בקונגרס פלדנקרייז	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-027	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בלנגנאו, 2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-028	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בברמן, 2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-029	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בברן, 2000"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-030	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	קונטקטים - סדנה בברן	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-031	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בברלין, 1999"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-032	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה בוינה, 2014"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-033	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אלבום תצלומים - החוג לתנועה, 2001"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-034	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-035	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 2 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-036	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-037	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-038	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-039	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - סדנה של עמוס חץ, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-009-040	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - עמוס חץ בסדנאות שונות	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלומים - הופעות מחול	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'זורחות', ריקודי חדר 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'בעקבות סוקרטס', ריקודי חדר, 1996, 1 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'בעקבות סוקרטס', ריקודי חדר, 1996, 2 מתוך 2"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'ארבעה דואטים', ריקודי חדר, 1996"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'דואטים', ריקודי חדר, 1998"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'שבעת החטאים', ריקודי חדר, 1999"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'רעשים', ריקודי חדר 1999"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'עיניים לשמוע', ריקודי חדר, 1999"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - ריקודי חדר, 2006"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים -  'זעזועים', 2004"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-011	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - יום הילד, מאי 1989"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-012	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'סיפורי גוף', ענת שמגר, 1 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-013	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'סיפורי גוף', ענת שמגר, 2 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-014	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'סיפורי גוף', ענת שמגר, 3 מתוך 3"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-015	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 1 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-016	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 2 מתוך 5"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-017	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 3 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-018	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 4 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-019	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 5 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-010-020	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - הופעות, 6 מתוך 6"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-011	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-011-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - 'בעקבות סוקרטס', 1992"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-011-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - 'נגיעות ברוח', 1992"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-011-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - קטעי מחול שונים, 2002"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-011-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומי יח""ץ - 'כיסא', 2003"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012	אוסף עמוס חץ	סדרה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אנסמבל תנועות'	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-001	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 1 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-002	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 2 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-003	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 3 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-004	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 4 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-005	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 5 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-006	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 6 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-007	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 7 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-008	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 8 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-009	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 9 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PAmHe-010-012-010	אוסף עמוס חץ	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תצלומים - 'אנסמבל תנועות', 10 מתוך 10"	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED

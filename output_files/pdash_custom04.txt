@@ -1,0 +1,52 @@
+911##a	911##c	351##c	LDR	008	24510a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+PDaSh	אוסף דוד שריר	Section Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אוסף דוד שריר	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-001	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות תלבושות - 'אסתר המלכה', 1966	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-002	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תפאורה - 'אסתר המלכה', 1966	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-003	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'מזמור לירושלים', 1978	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-004	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'טלטלה', 1974	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-005	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'צור וירושלים', 2003	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-006	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'הדיבוק', 1983	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-007	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורה - 'הנזל וגרטל', 1978, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-008	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורה - 'הנזל וגרטל', 1978, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-009	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורה - 'מאנון ופאוסט', 1981	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-010	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'דידו ואינאס', 1985, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-011	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'דידו ואינאס', 1985 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-012	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'אלקטרה', 2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-013	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'ספור גן-עדן', 1981	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-014	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'ההולנדי המעופף', 1980	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-015	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום תפאורה - 'ההולנדי המעופף', 1980	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-016	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום במה - 'אחותי כלה', 1969, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-017	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורת במה - סיום המופע 'אחותי כלה', 1969	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-018	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום במה - 'אחותי כלה', 1969, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-019	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום מופע - שלושה רקדני 'יעקב', 1972-1973	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-020	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום מופע - 'יעקב', 1972-1973	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-021	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - טרול א', 'פר-גינט', 1971	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-022	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - טרול ב', 'פר-גינט', 1971	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-023	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - טרול ג', 'פר-גינט', 1971	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-024	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - טרול ד', 'פר-גינט', 1971	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-025	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'פר-גינט', 1971	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-026	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגם תפאורה - 'מקום אחר', 1982	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-027	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורת במה - 'שירה', 1989, 1 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-028	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורת במה - 'שירה', 1989, 2 מתוך 2	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-029	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום מופע - 'שירה', 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-030	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - שירה, 'שירה', 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-031	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - שיכרסון, 'שירה', 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-032	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תלבושת - פרופסור בלכם, 'שירה', 1989	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-033	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורת במה - 'ינטל', 1982	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-034	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תפאורת במה - 'ינטל', 1982	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-035	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תפאורה - 'תמול שלשום', 1993-1994	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-036	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום מופע - 'שדוכין', 1969	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-037	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - השדכנית (פולקה), 'שדוכין', 1969	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-038	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - המחזר (ביציה), 'שדוכין', 1969	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-039	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תפאורת ההצגה 'שדוכין', 1969	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-040	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - שרה, 'ארבע אמהות', 1995	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-041	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - חתונת לאה, 'ארבע אמהות', 1995	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-042	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - רבקה, 'ארבע אמהות', 1995	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-043	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - דמות תנכית, 'הדרך הנצחית', 2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-044	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - יוסף, 'הדרך הנצחית', 2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-045	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לעיצוב תלבושת - 'הדרך הנצחית', 2000	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-046	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תפאורת במה - 'אסתר המלכה', 1966	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-047	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תפאורת במה ותלבושות - 'פריזמה', 1976	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-048	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום מופע - 'פריזמה', 1976	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-049	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצת תפאורת במה - 'פולחן האביב', 1977	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED
+PDaSh-050	אוסף דוד שריר	Item Record	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום דגם תפאורת במה - 'פולחן האביב', 1977	VIS	ARCHIVE	NOULI	NOOCLC	MX	NNL	SUPPRESSED

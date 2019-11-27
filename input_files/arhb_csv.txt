@@ -1,0 +1,810 @@
+﻿911##a	911##c	351##c	LDR	008	24500a	BAS##a	999##a	999##b	999##b	FMT	OWN##a	STA##a
+ArHb	אוסף חנן הברון	אוסף	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אוסף חנן הברון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001	אוסף חנן הברון	חטיבה	00000npc^a22^^^^^^^^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שרטוטים אדריכלים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"התחרויות התכנון של ספרייה בקולג' טריניטי בדבלין, יד לפורצי הדרך לירושלים והמסעדה המרכזית בקרית הטכניון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מסעדה מרכזית בקרית הטכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מסעדה מרכזית בקרית הטכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מסעדה מרכזית בקרית הטכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מסעדה מרכזית בקרית הטכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תחרות לתכנון הספרייה בטרינטי קולג' בדבלין, אירלנד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תחרות לתכנון הספרייה בטרינטי קולג' בדבלין, אירלנד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תחרות לתכנון הספרייה בטרינטי קולג' בדבלין, אירלנד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-001-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תחרות לתכנון הספרייה בטרינטי קולג' בדבלין, אירלנד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל בנען, חדר אוכל בנען ובית ספר מבואות בבאר טוביה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	התכתבות בעניין תכנון בית הספר מבואות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רשימה אודות תכנון האולם בבית הספר מבואות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל , נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל , נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל , נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל , נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-002-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ספר מבואות, באר טוביה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-003	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ כיסופים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-003-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, כיסופים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, צובה; בית תרבות ,כיסופים; בית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיפוץ בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, כיסופים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הגדלת בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הגדלת בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-004-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיפוץ בית תרבות, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חדר אוכל ומטבח בקיבוץ דפנה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, כפר סאלד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-018	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-019	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-005-020	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-006	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרפאות בקיבוצים רעים, פרוד, כיסופים ומשאבי שדה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-006-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ריהוט חדר רופא שיניים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-006-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה למרפאה, מועצה אזורית חבל מעון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-006-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה למרפאה, מועצה אזורית חבל מעון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד,כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-007-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית אחמד, כפר קרע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-008	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונת נוער בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-008-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת נוער, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-008-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת נוער, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-009	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית המועצה בחבל מעון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-009-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית המועצה, מועצה אזורית חבל מעון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-009-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית המועצה, מועצה אזורית חבל מעון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-010	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית נמרי באשדות יעקב	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-010-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-010-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-010-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-010-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-011-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית עם ואולם כולל (אולם ספורט) בבארי	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית עם, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית עם, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית עם, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-012-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל (אולם ספורט), בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות חדר אוכל ומטבח בקיבוץ בית קשת 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-013-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-014	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות גינון לקיבוץ תל רעים 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-014-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנית נוי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-014-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנית נוי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתות בקיבוצים רעים, נתיב הל""ה ובית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-015-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לכיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חדר אוכל בקיבוץ מעוז חיים וחדר אוכל באילת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון חדר אוכל, אילת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון חדר אוכל, אילת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-016-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית הקיבוץ המאוחד והספריה הלאומית	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הספרים הלאומי והאוניברסיטאי, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קרית האוניברסיטה העברית בקמפוס גבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הספרים הלאומי והאוניברסיטאי, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-018	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-019	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-020	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-021	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-017-022	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרויקט לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרויקט לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרויקט לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-018-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חדר אוכל לתיירים בקיבוץ גשר הזיו	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-019-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל לתיירים, גשר הזיו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-020	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות 34-נ2, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-020-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-020-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-020-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-020-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא ידוע, מיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חדר אוכל בקיבוץ גינוסר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-021-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	יצירות שונות. כיתוב על תיק מקורי: רעים תכניות שונות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות למבנים לא מזוהים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תבליט בצובה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות למבנים לא מזוהים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ריהוט לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חזיתות של מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חזיתות למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן בגדים, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתת נוער, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתת נוער, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מריצה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית בקיבוץ 4 יחידות דיור (כניסה מוגנת)	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן לבית תרבות ברעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-018	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומועדון, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-019	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הספרים הלאומי בקמפוס גבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-020	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דלת הזזה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-021	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז חינוך והשכלה, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-022	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז חינוך והשכלה, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-022-023	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז חינוך והשכלה, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"ריהוט למבנים שונים בעיקר בקיבוץ רעים. בין היתר תכנית לבריכת שחייה, מרפאה, בית לגיל הרך, סידור לחדר ילדים לבית כולל בקיבוץ רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית אוניברסלית	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן לתלמידים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית אוניברסלית עם לוח שעם	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית בין שתי מיטות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן עבודה לתלמיד	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ארונות כיתה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן עבודה לתלמיד	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן כיתה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שולחן עבודה לתלמיד	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בריכת פעוטות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית הפרדה בסדנא	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רהיטים לגן ילדים ברעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית אוניברסלית לכיתה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ארונות חדרים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כונית לילדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ארונות כיתה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כוננית עם מדפים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-018	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רהיטים לגן ילדים ברעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-019	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פינת בובות ומשחק בגן ילדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-020	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ארונות לילד בגן ילדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-021	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סדנה בגן ילדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-023-022	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית לגיל רך	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, שיכון עם חצרות בית מגורים והצעה של הסוכנות למבני מגורים בקיבוץ רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונה בתל רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-024-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון דו קומתי, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-025	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שם התיק המקורי: מדידות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חומרים מתקופת לימודיו של הברון בטכניון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עירוני, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מגורים, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית דירות, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קפלה מדיצ'י בפירנצה, איטליה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לספרייה עירונית במסגרת לימודי אדריכלות, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לספרייה עירונית במסגרת לימודי אדריכלות, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתחנת אוטובוסים, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-026-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מגורים, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבני משק	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	לול מטילות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	לול מטילות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	לול מטילות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סביבון בגדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן בגדים, כפר דרום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עמדת מיון בגדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-027-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מכון חליבה, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון יד לפורצי הדרך לירושלים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-028-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-029-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחניים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-030-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, מחנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות בקיבוץ נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-031-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הל""ה, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות בקיבוץ גשר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-032-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-033	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אזורי אשכול וחדר אוכל בגליל ים 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-033-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-033-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-033-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-034	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן הלבשה, הגדלת ביתן שומר (בודקה), דיר יונקות, מחב""ג, תכנון קו ביוב, מבנה למתקני קיטור, חדר אוכל ומטבח ברעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-034-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז קיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-034-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן הלבשה, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה נוף ע""ש אוטו הירש ובית יהושע בשבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מצפה ע""ש אוטו הירש, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יהושע, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יהושע, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יהושע, שבי ציון"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-035-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצות למבנים לא מזוהים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה מבנים שונים 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-036-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-037	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-037-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-038	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ציורים של חנן הברון ומשפחתו	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל בקיבוץ דפנה, בית תרבות קיבוץ ניר אליהו, מחסן בגדים בקיבוץ רעים, חדר אוכל ומטבח בקיבוץ ראש הנקרה ותערוכת הקיבוץ מס. 10 בחיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, ניר אליהו"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן בגדים, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, ראש הנקרה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	ארון לשירותים בתל רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-039-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תערוכת העשור בקיבוץ, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-040	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	צילומי זירוקס של תוכניות של מבנה לא מזוהה 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-041	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הקיבוץ המאוחד, תל אביב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-042	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון גדל 87, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-043-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי בפתחת שלום, מועצה אזורית חבל אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-044	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-044-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-044-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-044-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-045	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז מדעים ואמנויות בבית ספר הבשור, מועצה אזרורית חבל הבשור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז תרבות בקיבוץ החותרים, אולם כולל (אולם ספורט) בקיבוץ נען וחדר אוכל במיקום לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה לחדר אוכל במיקום לא ידוע	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז תרבות בקיבוץ החותרים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה למבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-046-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-047	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בודקה (ביתן שומר), רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-047-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בודקה (ביתן שומר), רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-048	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרויקט לא ידוע	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-049	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"פרטים לתעלת איורור, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-050	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון 1000, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-051	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-052	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרויקט לא ידוע	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-053	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תוספת למפעל 'ישראלייזר', רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-054	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, רעים ומרכז ללימודי מחשב, אורנים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-054-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-054-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-054-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-054-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-055	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת נעורים, קיבוץ רביבים ואולם ספורט, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-056	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה להגדלת דירות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-057	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן במפעל 'ישראלייזר', רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-058	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בריכת שחיה, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-059	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז תנועתי, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-060	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרויקט לא ידוע	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-061	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-061-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-061-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-061-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-061-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-062-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-063	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרפאת שיניים, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-064	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מחסן באזור מלאכה, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-065	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון גדל ארבעה בניינים, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-066	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכניות בינוי לשכונה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-067-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת מגורים, צובה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-068	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הצעת התאמה למרכז הקונגרסים בבית יגאל אלון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ומגורי צוות בבית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מגורי צוות בבית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-069-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט ופנאי ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אומנויות, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-070-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אמנויות במרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-071	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בתי משפחות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-072	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עותקי מקרא לתכניות מפורטות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-073-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"יד טבנקין בסמינר אפעל, רמת אפעל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-074	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בתי משפחות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-075	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים I"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-075-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-075-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-076	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מפעל ""ישראלייזר"", רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-077	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בריכה בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-078	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מפעל ""ישראלייזר"", רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-079	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית כנסת בחבל מעון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-079-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-079-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-079-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-079-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-080	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-081	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית בר יהודה בקיבוץ יגור	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-082	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סמינר אורנים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-083	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט נפגעים ליד בית החולים אלי""ן בירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-083-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז ספורט לנפגעים ליד בית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-084	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-084-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-084-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-085	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-086	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז רב תכליתי במרום גולן	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-087	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שיכון גדל בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-088	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-089	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	פרטי בנין למבנים שונים בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-090	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מפעל ""ישראלייזר"" בקיבוץ רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מלון בקיבוץ רמת רחל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-091-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית מלון, רמת רחל"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-092	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונה דרום מערבית בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-093	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-094	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-095	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מפעל ""ישראלייזר"" בקיבוץ רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-096	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-097	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-098	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנית בינוי לישוב לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל בפרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-099-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-100	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית תרבות רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-101	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכניות ביוב ומערכות בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	סקיצה 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-102-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-103	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל בקיבוץ נען, אולם תרבות בקיבוץ בארי, בית בר יהודה בקיבוץ יגור, בית יבניאלי בקיבוץ מעוז חיים ובית נמרי בקיבוץ אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-103-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-103-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-103-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-104	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	הרחבת מכבסה בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-105	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה III	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה, מזכירות, דפנה, חדר אוכל, גינוסר ובית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גנוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גנוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מזכירות, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, גנוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-106-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"כיתה כוללת, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-107	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית כנסת בחבל מעון 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-107-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-107-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הכנסת העתיק במעון, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-108	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-108-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-108-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-108-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-108-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-109	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית כנסת בחבל מעון II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-110	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנה לא מזוהה II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-110-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-111	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כיתה כוללת בקיבוץ רעים II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם תרבות בקיבוץ גבעת ברנר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-112-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז קהילתי, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-113	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון גדל, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-114	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית יגאל אלון	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-115	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כיתה כוללת בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-116-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תחרות תכנון בנין מועצה אזורית עמק יזרעאל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן בירושלים, בית תרבות בקיבוץ גשר, חדר אוכל ומטבח בקיבוץ בית קשת, חדר אוכל ומטבח בקיבוץ גליל ים, אולם תרבות כולל בקיבוץ בארי, אולם לבית הספר ""מבואות"" בבאר טוביה, בית תרבות בקיבוץ נתיב הל""ה, שיכון קוטג'ים בקיבוץ חפציבה, שיכון בקיבוץ מעגן מיכאל ושיכון בקיבוץ נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון קוטג', חפציבה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גשר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנית מפורטת למשק קיבוצי, תל רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם לבית ספר מבואות, באר טוביה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-117-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, בית קשת"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-118	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה רב תכליתי ""מרכז"" בקיבוץ מרום גולן"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-118-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה רב תכליתי ""מרכז"" בקיבוץ מרום גולן"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-118-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה רב תכליתי ""מרכז"" בקיבוץ מרום גולן"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-118-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה רב תכליתי ""מרכז"" בקיבוץ מרום גולן"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-118-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה רב תכליתי ""מרכז"" בקיבוץ מרום גולן"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-119	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - משבצת הישוב	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית יגאל אלון בקבוץ גינוסר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-120-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-121	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	דגמי דירות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-122	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונות מגורים בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבת קהילת פינסק וקרלין בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק ולקרבנות השואה בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה ליהודי פינסק וקארלין שניספו בשואה בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-123-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מצבה לקדושי פינסק בקיבוץ גבת	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-124	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"משרדים ברמת אפעל, מזכירות בקיבוץ כיסופים וכיתת מלאכה ואולם ספורט בקיבוץ רביבים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-124-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תוספת משרדים בסמינר רמת אפעל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-124-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה 2 למזכירות, כיסופים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-125	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז הפלסטיקה בקרית התכניון, חיפה II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-126	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מפעל ""ישראלייזר"", רעים II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-127	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז מוזיקה במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-127-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז מוזיקה במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-127-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז מוזיקה במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-127-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז מוזיקה במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-127-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז מוזיקה במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-128	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בית יגאל אלון בקבוץ גינוסר II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-129-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבנים שונים במרכז אשכול 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-130-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-131	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר בירושלים II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן בירושלים II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"ריהוט בבית החולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-132-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-133	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול במועצה אזורית אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-134	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום אויר של קיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-134-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תצלום אויר של קיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-135	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בתים פרטיים בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-136	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונה בקיבוץ רביבים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-136-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מבני מגורים ברביבים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-136-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונה ברביבים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-137	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"דגמי דירות, ללא מיקום"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-138	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"משרד עג""ש (גידולי שדה) בקיבוץ רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-139	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	שכונת מגורים בקיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים IV"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-140-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אלי""ן, ירושלים "	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-141	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטה להנצחת נירים, דנגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-141-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון אנדרטה להנצחת הקרב בנירים (דנגור), נירים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-141-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון אנדרטה להנצחת הקרב בנירים (דנגור), נירים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר בירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-142-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית ד""ר היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-143	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תוספת 6 יחד' לבניין, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-144	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"גן ילדים, רעים ושיכון 39, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-145	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מעון למתנדבים בבית חולים 'אלי""ן', ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-145-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מעון למתנדבים בבית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-145-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מעון למתנדבים בבית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-145-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מעון למתנדבים בבית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-145-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מעון למתנדבים בבית חולים אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-146	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול 	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-147	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אומנויות, מועצה אזורית אשכול II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-147-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם ספורט במרכז אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות בקיבוץ נתיב הל""ה, בית נמרי בקיבוץ אשדות יעקב, חדר אוכל ומטבח בקיבוץ גליל ים, בית תרבות בקיבוץ גבר עם, אולם כולל בקיבוץ בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם לבית ספר מבואות, באר טוביה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גבר עם"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, נתיב הל""ה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-148-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל ומטבח, גליל ים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-149	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנית המשק של קיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הספרייה הלאומית בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-150-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתכנון בית הספרים הלאומי והאוניברסיטאי בגבעת רם, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית הבראה בעין גדי, מועדון בקיבוץ רעים, אולם התעמלות בקיבוץ מעוז חיים, אולם ספרייה בקיבוץ גליל ים, בית יגאל אלון בקיבוץ גינוסר אולם בקיבוץ גבעת ברנר, אולם כולל בקיבוץ בארי, בית תרבות בקיבוץ גדות, בית נמרי בקיבוץ אשדות יעקב, בית בר יהודה בקיבוץ יגור, ""המרכז"" בקיבוץ מרום גולן, אולם כולל בקיבוץ חניתה ובית החולים האורטופדי אלי""ן בירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית חולים אורטופדי אלי""ן, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם תרבות, גבעת ברנר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז רב תכליתי במרום גולן	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית תרבות, גדות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז קיבוצי לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-009	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-010	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-011	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-012	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-013	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם וספרייה בקיבוץ גליל ים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-014	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם התעמלות, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-015	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז רב תכליתי במרום גולן	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-016	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם תרבות בקיבוץ גבעת ברנר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-017	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יגאל אלון, גינוסר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-018	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז רב תכליתי במרום גולן	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-019	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם וספרייה בקיבוץ גליל ים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-020	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם ספורט במיקום לא ידוע	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-021	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון בית הבראה, עין גדי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-022	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, חניתה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-023	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-024	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	אולם לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-025	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-151-026	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מועדון קיבוצי לא מזוהה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-152	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנית כללית של קיבוץ רעים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-153	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אנדרטת הנח""ל בפרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-153-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אתר הנצחה לחללי הנח""ל, פרדס חנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-154	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית בר יהודה, בקיבוץ יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-155	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנון כולל לקרית עמל באורנים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-155-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תכנית אב לקיבוץ אורנים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-155-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	בינוי במורד אורנים קרית עמל	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-156	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	חדר אוכל  בקיבוץ כברי ובקיבוץ מנרה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-156-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	תוספת לחדר אוכל בקיבוץ כברי	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-156-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"הצעה לתוספת לחדר אוכל, כברי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-156-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, כברי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-156-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, מנרה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-157	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל בקיבוץ דפנה, חדר אוכל בכפר סאלד, גן ילדים במיקום לא ידוע, כיתה כוללת בקיבוץ רעים, שיכון עם חצרות בקיבוץ רעים, שיכון בקיבוץ מעגן מיכאל, בית כולל בקיבוץ יגור, כיתה כוללת בקיבוץ אלונים, בית בקיבוץ (4 יחידות דיור), בית תרבות בקיבוץ גשר, בית יבניאלי בקיבוץ מעוז חיים, אולם כולל בקיבוץ נען, בית עליית הנוער בקיבוץ אלונים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-157-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית עליית הנוער, אלונים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-157-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, כפר סאלד"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-157-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"גן ילדים, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-157-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית כולל, יגור"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי בקיבוץ אשדות יעקב, אולם כולל בקיבוץ נען, מועדון בקיבוץ דפנה, אולם כולל בקיבוץ בארי, חדר אוכל בקיבוץ מנרה ובית יבניאלי בקיבוץ מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית יבניאלי, מעוז חיים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית נמרי, אשדות יעקב"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-004	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, בארי"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-005	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, מנרה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-006	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"אולם כולל, נען"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-007	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"חדר אוכל, מנרה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-158-008	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועדון, דפנה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-159	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"תכנית מתאר לקיבוץ רעים, אנדרטת הנח""ל בפרדס חנה ומבנה לא מזוהה"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-159-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון עם חצרות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-159-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה לא מזוהה, מיקום לא ידוע"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-160	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כיסופים - חדר אוכל I	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-161	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	כיסופים - חדר אוכל II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-162	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועצה אזורית אשכול - מרכז צוחר - בי""ס I"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-163	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מועצה אזורית אשכול - מרכז צוחר - בי""ס II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-163-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מבנה כיתות במרכז אזורי צוחר, מועצה אזורית אשכול"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-164	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול - מועדון פיס קשישים I	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-165	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול - מועדון פיס קשישים II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-166	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול - מוסיקה I	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-167	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול - מוסיקה II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-169	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מרכז אשכול - אולם אשכול, קונסטרוקציה והגשה II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-170	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	מרכז אשכול - אולם אשכול	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-171	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"קרית שמואל - בית ד""ר היילברונר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-171-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"מוסך בבית היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-171-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-171-003	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"בית היילברונר, ירושלים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-172	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - ביתן שומר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-173	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - מפעל רהיטים מצויירים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-174	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - דירות מעבר (לפני שינויים)	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-175	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - מכבסה ומחסן בגדים	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-176	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - ""פאב"" יונקיה - תוכניות ראשונות"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-177	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - תוכניות שינוי כביש כניסה ""משולש""."	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-178	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - מטבח (תוספת)	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-179	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - כתה כוללת I	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-180	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - כתה כוללת II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-181	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - משרד גידולי שדה ומוסך	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-182	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - מכבסה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-183	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - שיפוצים שונים בקיבוץ	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-184	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - תוכניות נוי ומגרש חניה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-184-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שיכון מגורים ואזור ספורט, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-184-002	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"שכונת ה-1000, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-185	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - שיכון ותיקים, חצרות ודירות מעבר"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-186	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - רפת - מכון חליבה I	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-187	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - מקלחת ושרותים משותפים II	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-188	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - שיכון הורים III	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-189	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - שיכון קליטה IV	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-190	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - בית תרבות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-190-001	אוסף חנן הברון	פריט	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"ריהוט בית תרבות, רעים"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-191	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - תוכניות אב ותב""עות I"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-192	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - תוכניות אב ותב""עות II"	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-193	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - תוכניות הרחבת מפעל ""ישראלייזר"""	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-194	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - ככר	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-195	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - סקר מגורים ואוכלוסיה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-196	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - עבודות שונות של שבתאי גבאי עבור הקיבוץ והמועצה.	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-197	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	"רעים - בקשות והיתרי בנייה למפעל ""יזראלייזר"""	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-198	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	רעים - בקשות להיתרים ותוכניות	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
+ArHb-001-199	אוסף חנן הברון	תיק	00000npd^a22^^^^^^a^4500	^^^^^^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d	עין גדי - בית הארחה	VIS	ARCHIVE	NOULI	NOULI	MX	NNL	SUPPRESSED
