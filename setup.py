@@ -15,19 +15,22 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-setup(name="Aleph_custom4",
+setup(name="Alma_brief_Records",
       version='0.1',
-      description='create table for importing empty records via custom04',
-      executables=[Executable('run.py', base=N, requires=['pandas', 'numpy'])])
+      license='NLI',
+      author='Yael Vardina Gherman',
+      author_email='Yael.VardinaGherman@nli.org.il',
+      description='This script creates an MARCxml file for up creating new records Alma with minimal data.',
+      executables=[Executable('run_alma.py', base=base)])
 
 # setup(
 #     name='Aleph_custom4',
 #     version='0.1',
 #     url='https://blog.nli.org.il/culture_and_art/',
-#     license='NLI',
+#     license='NLI'
 #     author='Yael Vardina Gherman',
 #     author_email='Yael.VardinaGherman@nli.org.ol',
-#     description='this script makes a table for custom04 in Aleph - creating new records with minimal data.',
+#     description='This script creates an MARCxml file for up creating new records Alma with minimal data.',
 #     executables=[Executable("run.py", base = base)],
 #     options= ["build_exe": build_exe_options]
 # )
