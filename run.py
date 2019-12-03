@@ -2,7 +2,6 @@ from helper_fuctions import *
 
 dt_now = datetime.datetime.now().strftime('%Y%m%d')
 
-
 level_mapper = {
     'אוסף': 'Section Record',
     'חטיבה': 'Fonds Record',

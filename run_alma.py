@@ -18,6 +18,9 @@ level_mapper = {
 
 
 def main():
+    collection, client, file_id = fetch_gspread_id(input('type collection id:'))
+    df = create_xl_from_gspread(client, file_id)
+    create_import_table(df, collection)
     input_file_path, collection = open_id_list()
     xl = pd.ExcelFile(input_file_path)
 

@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Section Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">אוסף סיני פתר</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-001</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">טיוטה - 'הברבור', 1996</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-002</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום - סיני פתר ומיכל מתיתיהו, 1996</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-003</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">עלון - 'ביקורת חצות', 1987</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">004-PSiPe</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">כרזה - 'ביקורת חצות', 1987</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">005-PSiPe</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">טיוטת מחזה - 'ביקורת חצות',1985-1987</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">006-PSiPe</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">מכתב - בעקבות ההצגה 'ביקורת חצות', 1987</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-008</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תיק הצגה - 'הטווס מסילואן', 2012</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-009</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">מכתב מנהלי - 'רואים כפול', תיאטרון העירוני חיפה, 1997</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-010</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">קטע עיתונות - 'אינתיפאדה שרואים משם', חדשות, 1989</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-011</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תוכניות - קבוצת התיאטרון, המרכז התיאטרוני נוה-צדק</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-012</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תמליל הצגה ותוכניות - 'היה היה פעם בערבות הנגב', 1984-1985</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-013</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלומים - 'אש צולבת' (סרט), 1991</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-014</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">כרטיס ברכה - 'מאדליין', 2003</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-015</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום - יוסי ידין וסיני פתר, 'טייסים', 1983</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-016</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום - סיני פתר, 'הפטריוט', קבוצת התיאטרון נוה צדק, 1982</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-017</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום קבוצתי- 'ההם', 1982</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-018</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום - 'המערב הפרוע', 2007</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-019</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">טיוטות מכתבים - סיני פתר, 1983-1987</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-020</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">File Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תיק הצגה - סיני פתר, 'השיבה לחיפה', תיאטרון הקאמרי, 2008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-021</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">עלון - 'בין השורות',מס' 9, מרץ 1988</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>0000 npc a2 4500</leader>
+        <datafield ind1=" " ind2=" " tag="911">
+            <subfield code="a">PSiPe-022</subfield>
+            <subfield code="c">PSiPe</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="351">
+            <subfield code="c">Item Record</subfield>
+        </datafield>
+        <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">תצלום אריזת תקליט - 'סורגים', 1980</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="906">
+            <subfield code="a">VIS</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="041">
+            <subfield code="a">heb</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="a">ARCHIVE</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOULI</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="999">
+            <subfield code="b">NOOCLC</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="FMT">
+            <subfield code="M">X</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="948">
+            <subfield code="a">NNL</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="542">
+            <subfield code="l">Copyright status not determined; Contract</subfield>
+            <subfield code="n">No copyright analysis</subfield>
+            <subfield code="o">Noam Solan by Yael Gherman 20191127</subfield>
+            <subfield code="q">ללא ניתוח מצב זכויות</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="506">
+            <subfield code="a">Library premises only;</subfield>
+            <subfield code="b">Permissions officer;</subfield>
+            <subfield code="e">Israel Copyright Act</subfield>
+            <subfield code="0">000000008</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="540">
+            <subfield code="a">איסור העתקה</subfield>
+            <subfield code="u">
+                http://web.nli.org.il/sites/NLI/Hebrew/library/items-terms-of-use/Pages/nli-copying-prohibited.aspx
+            </subfield>
+        </datafield>
+    </record>
+</collection>

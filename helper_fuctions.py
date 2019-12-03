@@ -3,12 +3,64 @@ import datetime
 import time
 from pathlib import Path
 
+import gspread
+import numpy as np
 import pandas as pd
+from oauth2client.service_account import ServiceAccountCredentials
 from pymarc import Record, Field, XMLWriter
 
 start_time = time.time()
 
 dt_now = datetime.datetime.now().strftime('%Y%m%d')
+
+INPUT_FILES_PATH = 'C:/Users/Yaelg/PycharmProjects/Aleph_custom4/input_files'
+
+
+def fetch_gspread_id(colletion_id):
+    # use creds to create a client to interact with the Google Drive API
+    scope = ['https://www.googleapis.com/auth/spreadsheets', "https://www.googleapis.com/auth/drive.file",
+             "https://www.googleapis.com/auth/drive"]
+    try:
+        creds = ServiceAccountCredentials.from_json_keyfile_name('google_drive_api/client_secret.json', scope)
+    except OSError as e:
+        creds = ServiceAccountCredentials.from_json_keyfile_name(r'C:\Users\Yaelg\Google '
+                                                                 r'Drive\National_Library\Python\VC_Preprocessing'
+                                                                 r'\google_drive_api\client_secret.json', scope)
+    client = gspread.authorize(creds)
+
+    files = [file for file in client.list_spreadsheet_files() if colletion_id.lower() in file['name'].lower()
+             and 'final' in file['name'].lower()]
+
+    if len(files) == 0:
+        sys.stderr.write(f'no file for {colletion_id} found in google drive')
+        return ''
+    else:
+        print('')
+        for index, file in enumerate(files):
+            print(index, ':', file['name'])
+            file_index = input('which file of the following do you choose? type the index number ')
+            return colletion_id, client, files[int(file_index)]['id']
+
+
+def create_xl_from_gspread(client, file_id):
+    spreadsheet = client.open_by_key(file_id)
+    try:
+        collection = spreadsheet.worksheet('קטלוג')
+    except:
+        worksheet_list = spreadsheet.worksheets()
+        print(f"no אוסף in worksheets. \n available sheets are:")
+        pprint.pprint(worksheet_list)
+        pass
+    dict_ds = collection.get_all_records(head=1)
+    df = pd.DataFrame(dict_ds)
+    return df
+
+
+def create_import_table(df, collection_id):
+    lean_df = df.loc[:, ['סימול פרויקט', 'רמת תיאור', 'כותרת']].replace('', np.nan).dropna(axis=0, how='all')
+    lean_df.iloc[0] = [collection_id, 'אוסף', input('Write the name of the collection')]
+    print(Path(INPUT_FILES_PATH) / (collection_id + '_brief.xlsx'))
+    write_excel(lean_df.set_index('סימול פרויקט'), Path(INPUT_FILES_PATH) / (collection_id + '_brief.xlsx'))
 
 
 def open_id_list():
@@ -98,7 +150,7 @@ def fill_table(df, collect):
     df['LDR'] = None
     df['LDR'] = df.apply(create_LDR, axis=1)
     df['008'] = '^k^^^^^^^^xx^^^^^^^^^^^^^^^^^^^^^^d'
-    df['911'] = df['911'].apply(lambda x: '$$a' + x + '$$c' + collect)
+    df['911'] = df['911'].apply(lambda x: '$$a' + str(x) + '$$c' + str(collect))
     df['041'] = '$$aheb'
     df['351'] = df['351'].apply(lambda x: '$$c' + x)
     df['24510'] = df['24510'].apply(lambda x: '$$a' + x)
